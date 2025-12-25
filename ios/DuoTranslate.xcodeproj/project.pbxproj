@@ -1,0 +1,16 @@
+// !!! IMPORTANT: This is a template. You need to create the Xcode project manually and add these files.
+// This file shows the structure your project.pbxproj should have.
+
+// To create the project properly:
+// 1. Open Xcode
+// 2. Create new iOS App project named "DuoTranslate"
+// 3. Add all Swift files from the ios/DuoTranslate/ directory
+// 4. Xcode will automatically generate the project.pbxproj file
+
+// Key settings your project should have:
+// - Product Name: DuoTranslate
+// - Bundle Identifier: com.yourcompany.DuoTranslate (change to your domain)
+// - iOS Deployment Target: 17.0
+// - Swift Language Version: Swift 5
+// - Info.plist file: DuoTranslate/Info.plist
+
