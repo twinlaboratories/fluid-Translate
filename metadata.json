@@ -1,0 +1,7 @@
+{
+  "name": "DuoTranslate",
+  "description": "A real-time, split-screen conversational translator powered by Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
